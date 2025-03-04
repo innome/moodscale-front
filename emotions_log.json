@@ -6,7 +6,163 @@
             "0": 3,
             "1": 4
         },
-        "date": "2025-02-22",
+        "date": "2025-02-27",
         "note": "Termine este codigo en una hora y diez minutos, el front igual me dio problemas"
+    },
+    {
+        "emotion": "felicidad",
+        "intensity": 1,
+        "responses": {
+            "0": 1,
+            "1": 1,
+            "2": 5,
+            "3": 5
+        },
+        "date": "2025-02-28",
+        "note": "Fue un dia tranquilo y me senti bien"
+    },
+    {
+        "emotion": "calma",
+        "intensity": 3,
+        "responses": {
+            "0": 4,
+            "1": 4,
+            "2": 5,
+            "3": 5
+        },
+        "date": "2025-03-01",
+        "note": "Me senti bien el dia de hoy, estuve tranquilo con mi trabajo\n"
+    },
+    {
+        "emotion": "felicidad",
+        "intensity": 3,
+        "responses": {
+            "0": 3,
+            "1": 4,
+            "2": 4,
+            "3": 5
+        },
+        "date": "2025-03-02",
+        "note": "Avance en los pesos que levante en el gym"
+    },
+    {
+        "emotion": "sorpresa",
+        "intensity": 2,
+        "responses": {
+            "0": 3,
+            "1": 5,
+            "2": 1,
+            "3": 4
+        },
+        "date": "2025-03-03",
+        "note": "Me pagaron un dinero que no tenia pensado recibir"
+    },
+    {
+        "emotion": "amor",
+        "intensity": 2,
+        "responses": {
+            "0": 4,
+            "1": 4,
+            "2": 5,
+            "3": 5
+        },
+        "date": "2025-02-27",
+        "note": "estuve hablando con mi mamá como hace mucho no lo haciamos"
+    },
+    {
+        "emotion": "felicidad",
+        "intensity": 3,
+        "responses": {
+            "0": 1,
+            "1": 4,
+            "2": 5,
+            "3": 5
+        },
+        "date": "2025-02-28",
+        "note": "Volvi a ver a mis compañeros del trabajo"
+    },
+    {
+        "emotion": "calma",
+        "intensity": 3,
+        "responses": {
+            "0": 5,
+            "1": 5,
+            "2": 5,
+            "3": 5
+        },
+        "date": "2025-03-01",
+        "note": "Dia tranquilo pero me senti muy bien\n"
+    },
+    {
+        "emotion": "amor",
+        "intensity": 5,
+        "responses": {
+            "0": 5,
+            "1": 5,
+            "2": 5,
+            "3": 5
+        },
+        "date": "2025-02-28",
+        "note": "Hoy estuve con una persona muy especial\n"
+    },
+    {
+        "emotion": "ansiedad",
+        "intensity": 2,
+        "responses": {
+            "0": 0,
+            "1": 1,
+            "2": 0,
+            "3": 1
+        },
+        "date": "2025-03-03",
+        "note": "Estuve impaciente al esperar una noticia del trabajo personal"
+    },
+    {
+        "emotion": "asco",
+        "intensity": 4,
+        "responses": {
+            "0": 2,
+            "1": 1,
+            "2": 2,
+            "3": 4
+        },
+        "date": "2025-02-27",
+        "note": "me enferme de gripe"
+    },
+    {
+        "emotion": "felicidad",
+        "intensity": 4,
+        "responses": {
+            "0": 2,
+            "1": 4,
+            "2": 4,
+            "3": 5
+        },
+        "date": "2025-02-28",
+        "note": "Me llego la noticia del trabjo personal"
+    },
+    {
+        "emotion": "felicidad",
+        "intensity": 5,
+        "responses": {
+            "0": 3,
+            "1": 1,
+            "2": 5,
+            "3": 5
+        },
+        "date": "2025-03-04",
+        "note": "Termine mi termometroooooo"
+    },
+    {
+        "emotion": "amor",
+        "intensity": 4,
+        "responses": {
+            "0": 4,
+            "1": 5,
+            "2": 5,
+            "3": 5
+        },
+        "date": "2025-03-04",
+        "note": "Pense en la chica que me gusta"
     }
 ]
