@@ -34,7 +34,7 @@ function App() {
 
   const fetchEntries = async () => {
     try {
-      const response = await fetch("http://127.0.0.1:8000/entries/");
+      const response = await fetch("https://moodscale-back.vercel.app/entries/");
       if (!response.ok) throw new Error("Error al obtener entradas");
       const data = await response.json();
       setEntries(data);
@@ -45,7 +45,7 @@ function App() {
 
   const fetchStatistics = async () => {
     try {
-      const response = await fetch("http://127.0.0.1:8000/stats/");
+      const response = await fetch("https://moodscale-back.vercel.app/stats/");
       if (!response.ok) throw new Error("Error al obtener estadísticas");
       const data = await response.json();
       setStats(data);
@@ -58,7 +58,7 @@ function App() {
     setSelectedEmotion(emotion);
     if (emotion) {
       try {
-        const response = await fetch(`http://127.0.0.1:8000/questions/${emotion}`);
+        const response = await fetch(`https://moodscale-back.vercel.app/questions/${emotion}`);
         if (!response.ok) throw new Error("Error al obtener preguntas");
         const data = await response.json();
         setQuestions(data);
@@ -73,7 +73,7 @@ function App() {
 
   const handleSubmit = async (formData) => {
     try {
-      const response = await fetch("http://127.0.0.1:8000/log_emotion/", {
+      const response = await fetch("https://moodscale-back.vercel.app/log_emotion/", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(formData),
