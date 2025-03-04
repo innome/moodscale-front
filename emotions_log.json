@@ -1,0 +1,12 @@
+[
+    {
+        "emotion": "felicidad",
+        "intensity": 5,
+        "responses": {
+            "0": 3,
+            "1": 4
+        },
+        "date": "2025-02-22",
+        "note": "Termine este codigo en una hora y diez minutos, el front igual me dio problemas"
+    }
+]
